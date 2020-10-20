@@ -14,10 +14,10 @@ class Palindrom {
         String real = character.substring(4);
 
         if(value.equals(real))
-            System.out.println("This is a palindrom");
+            System.out.println("it's a plaidrom");
         
         else
-            System.out.println("this is not a palindrome");
+            System.out.println("it's not a palidrom");
 
     }
 }
